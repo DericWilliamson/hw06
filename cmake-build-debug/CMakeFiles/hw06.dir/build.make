@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/deric/.CLion2018.3/system/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /cygdrive/c/Users/Deric/.CLion2018.3/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/deric/.CLion2018.3/system/cygwin_cmake/bin/cmake.exe -E remove -f
+RM = /cygdrive/c/Users/Deric/.CLion2018.3/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/deric/CLionProjects/hw06
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Deric/CLionProjects/hw06
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hw06.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/hw06.dir/flags.make
 
 CMakeFiles/hw06.dir/src/main.cpp.o: CMakeFiles/hw06.dir/flags.make
 CMakeFiles/hw06.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hw06.dir/src/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/main.cpp.o -c /cygdrive/c/Users/deric/CLionProjects/hw06/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hw06.dir/src/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/main.cpp.o -c /cygdrive/c/Users/Deric/CLionProjects/hw06/src/main.cpp
 
 CMakeFiles/hw06.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw06.dir/src/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/deric/CLionProjects/hw06/src/main.cpp > CMakeFiles/hw06.dir/src/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Deric/CLionProjects/hw06/src/main.cpp > CMakeFiles/hw06.dir/src/main.cpp.i
 
 CMakeFiles/hw06.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw06.dir/src/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/deric/CLionProjects/hw06/src/main.cpp -o CMakeFiles/hw06.dir/src/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Deric/CLionProjects/hw06/src/main.cpp -o CMakeFiles/hw06.dir/src/main.cpp.s
 
 CMakeFiles/hw06.dir/src/CustomerLine.cpp.o: CMakeFiles/hw06.dir/flags.make
 CMakeFiles/hw06.dir/src/CustomerLine.cpp.o: ../src/CustomerLine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw06.dir/src/CustomerLine.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/CustomerLine.cpp.o -c /cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hw06.dir/src/CustomerLine.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/CustomerLine.cpp.o -c /cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.cpp
 
 CMakeFiles/hw06.dir/src/CustomerLine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw06.dir/src/CustomerLine.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.cpp > CMakeFiles/hw06.dir/src/CustomerLine.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.cpp > CMakeFiles/hw06.dir/src/CustomerLine.cpp.i
 
 CMakeFiles/hw06.dir/src/CustomerLine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw06.dir/src/CustomerLine.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.cpp -o CMakeFiles/hw06.dir/src/CustomerLine.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.cpp -o CMakeFiles/hw06.dir/src/CustomerLine.cpp.s
 
 CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o: CMakeFiles/hw06.dir/flags.make
 CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o: ../src/PriorityQueue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o -c /cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o -c /cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.cpp
 
 CMakeFiles/hw06.dir/src/PriorityQueue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw06.dir/src/PriorityQueue.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.cpp > CMakeFiles/hw06.dir/src/PriorityQueue.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.cpp > CMakeFiles/hw06.dir/src/PriorityQueue.cpp.i
 
 CMakeFiles/hw06.dir/src/PriorityQueue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw06.dir/src/PriorityQueue.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.cpp -o CMakeFiles/hw06.dir/src/PriorityQueue.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.cpp -o CMakeFiles/hw06.dir/src/PriorityQueue.cpp.s
 
 CMakeFiles/hw06.dir/src/Node.cpp.o: CMakeFiles/hw06.dir/flags.make
 CMakeFiles/hw06.dir/src/Node.cpp.o: ../src/Node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hw06.dir/src/Node.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/Node.cpp.o -c /cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hw06.dir/src/Node.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hw06.dir/src/Node.cpp.o -c /cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.cpp
 
 CMakeFiles/hw06.dir/src/Node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hw06.dir/src/Node.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.cpp > CMakeFiles/hw06.dir/src/Node.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.cpp > CMakeFiles/hw06.dir/src/Node.cpp.i
 
 CMakeFiles/hw06.dir/src/Node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hw06.dir/src/Node.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.cpp -o CMakeFiles/hw06.dir/src/Node.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.cpp -o CMakeFiles/hw06.dir/src/Node.cpp.s
 
 # Object files for target hw06
 hw06_OBJECTS = \
@@ -125,7 +125,7 @@ hw06.exe: CMakeFiles/hw06.dir/src/PriorityQueue.cpp.o
 hw06.exe: CMakeFiles/hw06.dir/src/Node.cpp.o
 hw06.exe: CMakeFiles/hw06.dir/build.make
 hw06.exe: CMakeFiles/hw06.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable hw06.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable hw06.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hw06.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/hw06.dir/clean:
 .PHONY : CMakeFiles/hw06.dir/clean
 
 CMakeFiles/hw06.dir/depend:
-	cd /cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/deric/CLionProjects/hw06 /cygdrive/c/Users/deric/CLionProjects/hw06 /cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug /cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug /cygdrive/c/Users/deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles/hw06.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/Deric/CLionProjects/hw06 /cygdrive/c/Users/Deric/CLionProjects/hw06 /cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug /cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug /cygdrive/c/Users/Deric/CLionProjects/hw06/cmake-build-debug/CMakeFiles/hw06.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hw06.dir/depend
 

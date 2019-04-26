@@ -6,25 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.cpp
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.cpp
 CustomerLine.h
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.h
+CustomerLine.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.cpp
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.cpp
 Node.h
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.h
+CustomerLine.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.cpp
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.cpp
 PriorityQueue.h
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.h
+Node.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.h
+CustomerLine.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/CustomerLine.h
+Node.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/Node.h
 
-/cygdrive/c/Users/deric/CLionProjects/hw06/src/main.cpp
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/main.cpp
+string
+-
 iostream
 -
+fstream
+-
+queue
+-
+PriorityQueue.h
+/cygdrive/c/Users/Deric/CLionProjects/hw06/src/PriorityQueue.h
 
