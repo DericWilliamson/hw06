@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.cpp
+CustomerLine.h
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/CustomerLine.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.cpp
+Node.h
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/Node.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.cpp
+PriorityQueue.h
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/PriorityQueue.h
+
+/cygdrive/c/Users/deric/CLionProjects/hw06/src/main.cpp
+iostream
+-
+
